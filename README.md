@@ -1,5 +1,7 @@
 # Ram Navami Festive Animation
-
+---
+![ram_navami_animation](./Project/ram_navami_animation.png)
+---
 ## Overview
 This Python script creates a festive animation to celebrate **Ram Navami** using OpenCV and Turtle graphics. It processes an image (`Jai-Shree-Ram-thumb.png`), outlines it with a glowing effect, and enhances the scene with a **gradient sky**, **moving clouds**, **falling flowers**, and **exploding bombs**. The animation concludes with the message **"Happy Ram Navami everyone"** displayed below the image.
 
